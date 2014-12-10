@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  CustomUITableViewController.h
 //  UITableViewController Challenge Solution
 //
 //  Created by Bakytzhan Baizhikenov on 12/10/14.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface CustomUITableViewController : UITableViewController
 
 @end
-
